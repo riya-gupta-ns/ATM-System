@@ -1,0 +1,15 @@
+E:\tutorial\Atm\obj\Debug\net6.0\Atm.csproj.AssemblyReference.cache
+E:\tutorial\Atm\obj\Debug\net6.0\Atm.GeneratedMSBuildEditorConfig.editorconfig
+E:\tutorial\Atm\obj\Debug\net6.0\Atm.AssemblyInfoInputs.cache
+E:\tutorial\Atm\obj\Debug\net6.0\Atm.AssemblyInfo.cs
+E:\tutorial\Atm\obj\Debug\net6.0\Atm.csproj.CoreCompileInputs.cache
+E:\tutorial\Atm\bin\Debug\net6.0\Atm.exe
+E:\tutorial\Atm\bin\Debug\net6.0\Atm.deps.json
+E:\tutorial\Atm\bin\Debug\net6.0\Atm.runtimeconfig.json
+E:\tutorial\Atm\bin\Debug\net6.0\Atm.dll
+E:\tutorial\Atm\bin\Debug\net6.0\ref\Atm.dll
+E:\tutorial\Atm\bin\Debug\net6.0\Atm.pdb
+E:\tutorial\Atm\obj\Debug\net6.0\Atm.dll
+E:\tutorial\Atm\obj\Debug\net6.0\ref\Atm.dll
+E:\tutorial\Atm\obj\Debug\net6.0\Atm.pdb
+E:\tutorial\Atm\obj\Debug\net6.0\Atm.genruntimeconfig.cache
